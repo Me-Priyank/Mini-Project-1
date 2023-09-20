@@ -1,1 +1,1 @@
-# Here's My first self made mini project , (Just for practice)
+# Here's My first self made mini project using HTML & CSS only (Just for practice).
